@@ -1,4 +1,4 @@
-# Advent of Code 2018
+# Advent of Code 2019
 
 So, this year (again) I decided to participate in https://adventofcode.com/. Because I was looking to learn some backend language, I decided for Elixir (I really like functional languages 💎). This repo has MY solutions to the Advent of Code 2019 challenge.
 
